@@ -1,10 +1,13 @@
 # RaspberryPiProjects
 
-
 ## Safe Usb Key
+- Create a WiFi Hotspot and show the content of a pendrive
+- Protect your devices from viruses
+- Access with any tablet or wifi device to usb pendrives
+
 ### Requirements
 You need a pi zero w.
-0. install a fresh raspbian (I install the version of november 2017)
+0. install a fresh raspbian (I installed the version of november 2017)
 
 ### Install
 1. sudo apt-get install hostapd dnsmasq  nodejs
